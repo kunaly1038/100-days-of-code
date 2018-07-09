@@ -2,7 +2,7 @@ def fun():
     arr = []
     subarray=[]
     key = 0
-    x = int(input('How many numbers you want to enter in Arrya :'))
+    x = int(input('How many numbers you want to enter in array :'))
     for i in range(x):
         xy = int(input('Enter the number into the arrya :'))
         arr.append(xy)
