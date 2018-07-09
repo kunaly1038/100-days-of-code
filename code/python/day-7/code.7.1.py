@@ -4,7 +4,7 @@ def fun():
     key = 0
     x = int(input('How many numbers you want to enter in array :'))
     for i in range(x):
-        xy = int(input('Enter the number into the arrya :'))
+        xy = int(input('Enter the number into the array :'))
         arr.append(xy)
 
     print(arr)
