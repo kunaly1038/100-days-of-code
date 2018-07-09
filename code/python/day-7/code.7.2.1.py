@@ -2,7 +2,7 @@ def fun():
     arr = []
     x = int(input('How many numbers you want to enter in Array :'))
     for i in range(x):
-        xy = int(input('Enter the number into the arrya :'))
+        xy = int(input('Enter the number into the array :'))
         arr.append(xy)
     for i in range(len(arr)):
         for j in range(len(arr)):
